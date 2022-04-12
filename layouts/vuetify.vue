@@ -13,7 +13,7 @@ export default defineComponent({
 
 });
 </script>
-<style scoped lang="scss">
+<style scoped>
 .headline{
   font-size: 40px;
 }
