@@ -5,7 +5,4 @@ export default defineNuxtConfig({
   css: [
     '@mdi/font/css/materialdesignicons.css',
   ],
-  app: {
-    baseURL: '/base/'
-  }
 })
