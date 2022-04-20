@@ -6,7 +6,8 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "3.0.0-27496606.e43ba6e"
+    "nuxt": "3.0.0-rc.0",
+    "nuxt3": "3.0.0-rc.0-27508000.9df0a2b"
   },
   "dependencies": {
     "@mdi/font": "^6.6.96"
